@@ -1,0 +1,35 @@
+<html>
+<head>
+<title> Леся Українка </title>
+</head>
+<body bgcolor= "pink" text="blue">
+<center> <h1> Contra spem spero </h1> </center>
+<hr>
+<img src="ЛУ.jpg">
+
+<p>
+<font size="5" color="blue" face="Times New Roman">
+Гетьте, думи, ви хмари осінні!<p>
+То ж тепера весна золота!<p>
+Чи то так у жалю, в голосінні<p>
+Проминуть молодії літа?<p>
+</font>
+<font size="6" color="yellow" face="Monotype Corsiva">
+Ні, я хочу крізь сльози сміятись,<p>
+Серед лиха співати пісні,<p>
+Без надії таки сподіватись,<p>
+Жити хочу! Геть, думи сумні!<p>
+</font>
+<font size="7" color="green" face="Arial Black">
+Я на вбогім сумнім перелозі<p>
+Буду сіять барвисті квітки,<p>
+Буду сіять квітки на морозі,<p>
+Буду лить на них сльози гіркі.<p>
+</font>
+</p>
+
+</body>
+
+
+
+</html>
